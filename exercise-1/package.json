@@ -1,0 +1,14 @@
+{
+  "name": "test-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "firstProject"
+  ],
+  "author": "Krrloo",
+  "license": "ISC"
+}
